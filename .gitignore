@@ -20,11 +20,6 @@ venv.bak/
 # Frontend dependencies
 /node_modules/
 
-# Frontend builds
-/build/
-/dist/
-/public/
-
 # Environment variables
 *.env
 *.env.local
